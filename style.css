@@ -5,7 +5,7 @@
     font-family: sans-serif;
 }
 body{
-    background-image: url(image/bgr.jpg);
+    background-image: url(bgr.jpg);
     background-size: cover;
 }
 #main{
